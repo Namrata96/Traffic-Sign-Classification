@@ -1,7 +1,6 @@
 # Traffic-Sign Classification
 Developed a traffic-sign recognition pipeline for Driver Assistant Systems on LISA Traffic Sign Dataset [1].
-I implemented a three-layered CNN architecture based on [2] which would classify a given traffic-sign into one of the
-47 traffic-sign categories with 97.75% accuracy on the test dataset.
+Implemented a three-layered CNN architecture based on [2] which would classify a given traffic-sign into one of the 47 traffic-sign categories with 97.75% accuracy on the test dataset.
 
 Note: This was developed as a part of the traffic sign recognition project done under <a href="http://www.nsit.ac.in/faculty/dee/">Dr. Deepika Kukreja</a>, NSUT.
 
